@@ -1,0 +1,42 @@
+.app {
+    width: 450px;
+    margin: auto;
+}
+
+.todo {
+    width: 450px;
+    height: 30px;
+   display: flex;
+   justify-content: space-between;
+   align-items: center;
+   margin-top: 30px;
+   border-bottom: 1px solid rgb(212, 208, 208);
+}
+
+.header {
+    text-align: center;
+}
+
+.form {
+    width: 450px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.button {
+    width: 120px;
+    height: 40px;
+    border-radius: 5px;
+    color: white;
+    font-size: 15px;
+    background-color: rgb(124, 72, 247);
+    border: none;
+}
+
+.text {
+    width: 300px;
+    border-radius: 4px;
+    
+
+    
+}
